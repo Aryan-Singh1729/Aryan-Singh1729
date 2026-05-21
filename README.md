@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Aryan Singh<br>📖 Studying at AIT Pune (Information Technology)<br>👀 Interested in Programming, Development and Robotics<br>🌱 Currently learning DSA and Development
+👋 Hi, I’m Aryan Singh<br>📖 Studying at AIT Pune (Information Technology)<br>👀 Interested in Development, LLMs, AI and Robotics<br>
 
 
 ## 🌐 Socials:
