@@ -1,87 +1,83 @@
-<!-- Beautiful Capsule Render Animated Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30,40,50&height=220&section=header&text=Aryan%20Singh&fontSize=50&animation=twinkle&fontAlignY=35" width="100%" alt="Header Banner" />
-</p>
-
-<!-- Typing SVG Bio Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F71&center=true&vCenter=true&width=500&height=50&lines=LLM+%26+Agentic+AI+Engineer;GSSoC+2026+Contributor;Building+Low-Latency+AI+Apps" alt="Typing SVG" />
-</p>
-
----
-
-<!-- Side-by-Side: Your Exact "About Me" & "Socials" (Left) & Animated Pixel Iron Man (Right) -->
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="60%" valign="top">
-      <h2>💫 About Me:</h2>
-      <p>👋 Hi, I’m Aryan Singh</p>
-      <p>📖 Studying at AIT Pune (Information Technology)</p>
-      <p>👀 Interested in Development, LLMs, AI and Robotics</p>
-      <br>
-      <h3>🌐 Socials:</h3>
-      <a href="https://linkedin.com/in/aryansingh1729" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-      </a>
-      <a href="mailto:aaryansiingh1729@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
-      </a>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- Animated running pixel art Iron Man -->
-      <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/ironman.gif" width="220" alt="Iron Man running" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 💻 Tech Stack:
-
-<!-- Your tech stack organized into a beautiful, categorized table -->
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Languages</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /><br/>
-        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /><br/>
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /><br/>
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">AI & LLMs</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Groq-F71?style=for-the-badge" alt="Groq" /><br/>
-        <img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" /><br/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /><br/>
-        <img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-      </p>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Web & Tools</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br/>
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><br/>
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /><br/>
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Analytics
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Aryan Singh</h1>
+<h3 align="center">Student at Army Institute of Technology, Pune</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-Singh1729&show_icons=true&theme=tokyonight&count_private=true" alt="Aryan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Singh1729&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <a href="https://komarev.com/ghpvc/?username=Aryan-Singh1729">
+    <img src="https://komarev.com/ghpvc/?username=Aryan-Singh1729&label=Profile%20views&color=00FFFF&style=flat-square" alt="Aryan-Singh1729's profile views" />
+  </a>
 </p>
 
----
+## 📌 About Me
+- I'm a second-year engineering student at AIT Pune, deeply passionate about LLMs, AI/ML, embedded systems, and development.
+- I love building real-world technology that bridges hardware and software, ranging from robotics and connected IoT devices to full-stack applications.
+
+
+## 🧠 My Focus Areas
+- LLM Engineering
+- Computer Vision & ML
+- Embedded Systems
+- Full-Stack Development
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Aryan-Singh1729">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aryan-Singh1729&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Aryan-Singh1729's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Aryan-Singh1729&theme=radical&hide_border=true&cache_seconds=86400" alt="Aryan-Singh1729's GitHub Streak" width="49%" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+
+</p>
 
 <p align="center">
-  <sub><i>"The best way to predict the future is to build it." 🦾</i></sub>
+  <a href="https://github.com/Aryan-Singh1729">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aryan-Singh1729&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
