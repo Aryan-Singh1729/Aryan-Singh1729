@@ -1,4 +1,4 @@
-<h1 align="center">Hey! <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Aryan Singh</h1>
+<h1 align="center">Hi !👋 I'm Aryan Singh</h1>
 <h3 align="center">Student at Army Institute of Technology, Pune</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
