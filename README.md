@@ -20,7 +20,7 @@ My work bridges the gap between hardware and software, ranging from autonomous r
 ## 🛠️ Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,cpp,react,tailwind,fastapi,jupyter,opencv,mysql,postgres,docker,raspberrypi,arduino,git,vscode" alt="Aryan Singh - Technical Skills Grid" />
+    <img src="https://skillicons.dev/icons?i=js,py,cpp,react,tailwind,fastapi,opencv,mysql,postgres,docker,raspberrypi,arduino,git,vscode" alt="Aryan Singh - Technical Skills Grid" />
   </a>
 </p>
 
@@ -40,9 +40,6 @@ My work bridges the gap between hardware and software, ranging from autonomous r
 ## 🔗 Connect with Me
 <a href="https://www.linkedin.com/in/aryansingh1729/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" />
-</a>&nbsp;&nbsp;
-<a href="https://discord.com/users/arian_1729" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" alt="Discord: arian_1729" title="Discord: arian_1729" width="40" height="40" />
 </a>&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aaryansiingh1729@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40" />
