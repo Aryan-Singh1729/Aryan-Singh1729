@@ -6,7 +6,7 @@
 ---
 
 ## 📌 About Me
-I am a second-year Computer Engineering student at **Army Institute of Technology, Pune**, deeply passionate about artificial intelligence, large language models (LLMs), computer vision, and embedded hardware. 
+I am a third-year Computer Engineering student at **Army Institute of Technology, Pune**, deeply passionate about artificial intelligence, large language models (LLMs), Embedded Hardware and hardware troubleshooting. 
 
 My work bridges the gap between hardware and software, ranging from autonomous robotics and IoT systems to full-stack applications and agentic workflows.
 
